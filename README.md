@@ -17,6 +17,8 @@ Note: Though not all of theses maps may be used in our data collection, their at
 
 [Protection-weighted Range size rarity of imperiled specices - Nature Serve](https://natureserve.maps.arcgis.com/home/item.html?id=5ad6e1b3b6fb48bbad92d903114c9f28)
 
+[2020 Summed Range size rarity of imperiled species - Nature Serve](https://natureserve.maps.arcgis.com/home/item.html?id=e5a6de94cc7b4d5b9204e2cc5d8b6e4e)
+
 Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2534)
 
 [Parks and Protected Lands from Natural Earth data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/parks-and-protected-lands/)
