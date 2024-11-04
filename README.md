@@ -19,6 +19,8 @@ Note: Though not all of theses maps may be used in our data collection, their at
 
 [US Census - 2020 Population](https://www.arcgis.com/home/item.html?id=87dcc8c8a0224d8290fe65124287fefc)
 
+[US Census - 2010 resources](https://www.census.gov/programs-surveys/decennial-census/decade/2010/about-2010.html)
+
 [US Population Characteristics/Place Geographies](https://www.arcgis.com/home/item.html?id=9c84c24c55a04c3b8317f37e536e6a8a)
 
 [Protection-weighted Range size rarity of imperiled species - Nature Serve](https://natureserve.maps.arcgis.com/home/item.html?id=5ad6e1b3b6fb48bbad92d903114c9f28)
