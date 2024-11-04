@@ -15,6 +15,10 @@ Note: Though not all of theses maps may be used in our data collection, their at
 
 [TIGER County lines](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2020.html#list-tab-790442341)
 
+[Visualization of population by county changes from 2010-2020](https://www.census.gov/library/visualizations/2021/dec/percent-change-county-population.html)
+
+[US Census - 2020 Population](https://www.arcgis.com/home/item.html?id=87dcc8c8a0224d8290fe65124287fefc)
+
 [Protection-weighted Range size rarity of imperiled specices - Nature Serve](https://natureserve.maps.arcgis.com/home/item.html?id=5ad6e1b3b6fb48bbad92d903114c9f28)
 
 [2020 Summed Range size rarity of imperiled species - Nature Serve](https://natureserve.maps.arcgis.com/home/item.html?id=e5a6de94cc7b4d5b9204e2cc5d8b6e4e)
