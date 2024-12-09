@@ -1,4 +1,4 @@
-# GIS_441-541_Group_6
+# GIS 441/541 Group 6
 
 ## Overview
 A repository to contain Group 6's project materials.
