@@ -1,4 +1,4 @@
-# Biodiversity hotspots near fast-growing urban areas
+# Biodiversity hotspots near fast-growing urban areas (GIS 441/541 Group 6)
 
 ## Overview
 A repository to contain Group 6's project materials.
