@@ -28,3 +28,5 @@ Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley
 [Parks and Protected Lands from Natural Earth data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/parks-and-protected-lands/)
 
 [Forest Loss from Urbanization - StoryMaps](https://globil-panda.opendata.arcgis.com/maps/b3e95fbf17cc4c01a58379f6daaa8383/about)
+
+[NatureServe - Map of Biodiversity Importance](https://www.natureserve.org/map-biodiversity-importance?gad_source=1&gclid=Cj0KCQiA57G5BhDUARIsACgCYnwfCS-dNk3f2IiG8klCSsJLVUd6reNfTpiOzfMqVTTFDq3vjl5540IaAssJEALw_wcB)
