@@ -1,7 +1,7 @@
 # Biodiversity hotspots near fast-growing urban areas (GIS 441/541 Group 6)
 
 ## Overview
-A repository to contain Group 6's project materials.
+Our project focused on the top 5 Metropolitan areas in the Uniteted states as well as figuring out which region had the highest biodiversity. We used populations from 2010 and 2020 to find the population change and from there the square mile to get population density then table joined both 2010 and 2020 and overlayed the biodiversity data we had over our table joined data
 
 ## Proposal
 [Here is a link to our Google Slides project proposal.](https://docs.google.com/presentation/d/1SedyNGOyZhrfzUIoQiMh7W-5seJRaJYRI8bk1hIX4qc/edit?usp=sharing)
