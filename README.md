@@ -8,7 +8,7 @@ A repository to contain Group 6's project materials.
 
 ## Project Components
 Our main datasets will include US Census Bureau population data from 2010 and 2020. 
-We also utilized the NatureServe "Richness of Imperiled Species"
+We also utilized the NatureServe "Richness of Imperiled Species" raster [dataset](https://natureserve.maps.arcgis.com/home/item.html?id=5621d4789e174cc2b0695bfecd6dc6a8). 
 
 ## Resources
 Note: Though not all of theses maps may be used in our data collection, their attribute tables, visualizations, and other methodology are still considered as we formulate our project.
