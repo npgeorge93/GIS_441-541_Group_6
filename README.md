@@ -1,7 +1,7 @@
 # Biodiversity hotspots near fast-growing urban areas (GIS 441/541 Group 6)
 
 ## Overview
-Our project focused on the top 5 Metropolitan areas in the United States that are clost in proximity to areas of great imperiled biodiversity. We used population data from 2010 and 2020 to find the population change and from there converted area into square miles to get population density per square mile. Afterwards, we table joined both 2010 and 2020 and added the biodiversity data layer we had to make our final maps.
+Our project focused on the top 5 Metropolitan areas in the United States that are close in proximity to areas of great imperiled biodiversity. We used population data from 2010 and 2020 to find the population change and from there converted area into square miles to get population density per square mile. Afterwards, we table joined both 2010 and 2020 and added the biodiversity data layer we had to make our final maps.
 
 ## Proposal
 [Here is a link to our Google Slides project proposal.](https://docs.google.com/presentation/d/1SedyNGOyZhrfzUIoQiMh7W-5seJRaJYRI8bk1hIX4qc/edit?usp=sharing)
