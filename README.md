@@ -1,6 +1,6 @@
 # Biodiversity hotspots near fast-growing urban areas (GIS 441/541 Group 6)
 
-By: Natalie George, Cailin Cook-Porter, Alina CHerkasskiy, Maddie Slater, Meghan Smith
+By: Natalie George, Cailin Cook-Porter, Alina Cherkasskiy, Maddie Slater, Meghan Smith
 
 ## Overview
 Our project focused on the top 5 Metropolitan areas in the United States that are close in proximity to areas of great imperiled biodiversity. We used population data from 2010 and 2020 to find the population change and from there converted area into square miles to get population density per square mile. Afterwards, we table joined both 2010 and 2020 and added the biodiversity data layer we had to make our final maps.
