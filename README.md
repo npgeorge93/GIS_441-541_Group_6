@@ -10,7 +10,9 @@ Our project focused on the top 5 metropolitan areas in the United States that ar
 
 ## Project Components
 Our main datasets will include US Census Bureau population data from 2010 and 2020. We framed them with the help of TIGER/Lines at the county level; see below.
-We also utilized the NatureServe "Richness of Imperiled Species" raster [dataset](https://natureserve.maps.arcgis.com/home/item.html?id=5621d4789e174cc2b0695bfecd6dc6a8). Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2534)
+We also utilized the NatureServe "Richness of Imperiled Species" raster [dataset](https://natureserve.maps.arcgis.com/home/item.html?id=5621d4789e174cc2b0695bfecd6dc6a8). Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2534).
+
+We created a [Story Map](https://storymaps.arcgis.com/stories/0cf9a266851947dcbc325436e1f960ce) to highlight the findings of our research. 
 
 ## Resources
 Note: Though not all of theses maps may be used in our data collection, their attribute tables, visualizations, and other methodology are still considered as we formulate our project.
