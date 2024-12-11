@@ -8,7 +8,7 @@ A repository to contain Group 6's project materials.
 
 ## Project Components
 Our main datasets will include US Census Bureau population data from 2010 and 2020. We framed them with the help of TIGER/Lines at the county level; see below.
-We also utilized the NatureServe "Richness of Imperiled Species" raster [dataset](https://natureserve.maps.arcgis.com/home/item.html?id=5621d4789e174cc2b0695bfecd6dc6a8). 
+We also utilized the NatureServe "Richness of Imperiled Species" raster [dataset](https://natureserve.maps.arcgis.com/home/item.html?id=5621d4789e174cc2b0695bfecd6dc6a8). Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2534)
 
 ## Resources
 Note: Though not all of theses maps may be used in our data collection, their attribute tables, visualizations, and other methodology are still considered as we formulate our project.
@@ -22,8 +22,6 @@ Note: Though not all of theses maps may be used in our data collection, their at
 [US Census - 2010 resources](https://www.census.gov/programs-surveys/decennial-census/decade/2010/about-2010.html)
 
 [US Population Characteristics/Place Geographies](https://www.arcgis.com/home/item.html?id=9c84c24c55a04c3b8317f37e536e6a8a)
-
-Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2534)
 
 [Parks and Protected Lands from Natural Earth data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/parks-and-protected-lands/)
 
