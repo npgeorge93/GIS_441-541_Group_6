@@ -6,7 +6,7 @@ By: Natalie George, Cailin Cook-Porter, Alina Cherkasskiy, Ash Slater, Meghan Sm
 Our project focused on the top 5 metropolitan areas in the United States that are close in proximity to areas of great imperiled biodiversity. We used population data from 2010 and 2020 US Census databases. To understand how the population change throughout the decade affects the most recent data, we calculated population density of five areas who had the greatest growth. Joining data tables from both 2010 and 2020 and then adding imperiled biodiversity raster data as a layer allows us to make meaningful maps to visualize the cities' proximity to hotspots.
 
 ## Proposal
-[Here is a link to our Google Slides project proposal.](https://docs.google.com/presentation/d/1SedyNGOyZhrfzUIoQiMh7W-5seJRaJYRI8bk1hIX4qc/edit?usp=sharing)
+[Here is a link to our original Google Slides project proposal.](https://docs.google.com/presentation/d/1SedyNGOyZhrfzUIoQiMh7W-5seJRaJYRI8bk1hIX4qc/edit?usp=sharing) We have since focused more upon the biodiversity and population growth data rather than the Ecoregions; see our Story Map for our explanation of this variance.
 
 ## Project Components
 Our main datasets will include US Census Bureau population data from 2010 and 2020. We framed them with the help of TIGER/Lines at the county level; see below.
