@@ -10,7 +10,7 @@ Our project focused on the top 5 metropolitan areas in the United States that ar
 
 ## Project Components
 Our main datasets will include US Census Bureau population data from 2010 and 2020. We framed them with the help of TIGER/Lines at the county level; see below.
-We also utilized the NatureServe "Richness of Imperiled Species" raster [dataset](https://natureserve.maps.arcgis.com/home/item.html?id=5621d4789e174cc2b0695bfecd6dc6a8). Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2534). We also consulted other academic articles to support our efforts: [Cao et al., 2022](https://doi.org/10.1016/j.biocon.2022.109753),[Olive & Minichiello, 2013](https://doi.org/10.1016/j.apgeog.2013.06.004), [Soni et al., 2024](https://doi.org/10.1016/j.nhres.2024.04.001), [Williams et al., 2020](https://doi.org/10.1016/j.oneear.2020.08.009).
+We also utilized the NatureServe "Richness of Imperiled Species" raster [dataset](https://natureserve.maps.arcgis.com/home/item.html?id=5621d4789e174cc2b0695bfecd6dc6a8). Here is its accompanying [study article](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2534). We also consulted other academic articles to support our efforts: [Cao et al., 2022](https://doi.org/10.1016/j.biocon.2022.109753), [Olive & Minichiello, 2013](https://doi.org/10.1016/j.apgeog.2013.06.004), [Soni et al., 2024](https://doi.org/10.1016/j.nhres.2024.04.001), [Williams et al., 2020](https://doi.org/10.1016/j.oneear.2020.08.009).
 
 Our data tables and zonal statistics results can be found within this repository in the [Dataset](https://github.com/npgeorge93/GIS_441-541_Group_6/tree/main/dataset) folder.
 
